@@ -54,6 +54,5 @@ echo "ok where are we"
 # echo $cache_dir /app/tmp/cache
 # echo $env_dir /tmp/d20170821-85-1f0s0fn
 # echo $heroku_dir /tmp/build_eea90462ccf2f19110fc9d4022b1cb50/.heroku
-pwd
-ls
+yarn build
 
