@@ -50,7 +50,10 @@ cache_versions
 finalize_node
 
 echo "ok where are we"
-echo $build_dir
-echo $cache_dir
-echo $env_dir
-echo $heroku_dir
+# echo $build_dir /tmp/build_eea90462ccf2f19110fc9d4022b1cb50
+# echo $cache_dir /app/tmp/cache
+# echo $env_dir /tmp/d20170821-85-1f0s0fn
+# echo $heroku_dir /tmp/build_eea90462ccf2f19110fc9d4022b1cb50/.heroku
+pwd
+ls
+
