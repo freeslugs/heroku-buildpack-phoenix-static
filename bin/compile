@@ -48,3 +48,9 @@ compile
 head "Finalizing build"
 cache_versions
 finalize_node
+
+echo "ok where are we"
+echo $build_dir
+echo $cache_dir
+echo $env_dir
+echo $heroku_dir
